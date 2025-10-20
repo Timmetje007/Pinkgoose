@@ -1,0 +1,275 @@
+body {
+    background-color: black;
+}
+
+.pinkygoosy {
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+span {
+    color: pink;
+}
+
+.logo {
+    font-size: 30px;
+    color: white;
+}
+
+.stuk2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.container2 {
+    display: flex;
+    width: 1000px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+}
+
+.tekst1 {
+    font-size: 60px;
+    color: white;
+    width: 400px;
+}
+
+.tekst2 {
+    display: flex;
+
+    font-size: 20px;
+    color: white;
+    width: 450px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.get-started {
+    display: flex;
+    margin-top: 50px;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(236, 144, 236);
+    justify-content: center;
+    align-items: center;
+}
+
+.arrow-down {
+    margin-top: 80px;
+}
+
+
+
+.tekst3 {
+    display: flex;
+    color: white;
+    font-size: 40px;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.dao {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.dao1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+
+.investment-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #FFB4D3;
+    background-color: #182632;
+    align-items: center;
+}
+
+.start-up-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #FFC24C;
+    background-color: #182632;
+    align-items: center;
+}
+
+.service-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #D387F7;
+    background-color: #182632;
+    align-items: center;
+}
+
+.community-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #77E6FF;
+    background-color: #182632;
+    align-items: center;
+}
+
+.impact-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #23C9DE;
+    background-color: #182632;
+    align-items: center;
+}
+
+.defi-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #FF9E9E;
+    background-color: #182632;
+    align-items: center;
+}
+
+.more-dao {
+    display: flex;
+    width: fit-content;
+    padding: 15px;
+    height: 10px;
+    border-radius: 20px;
+    color: #707F8D;
+    background-color: #182632;
+    align-items: center;
+}
+
+.gamebox1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.gamebox2 {
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+.plek-superdao{
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}
+.superdao {
+    display: flex;
+    width: fit-content;
+    padding-inline: 8px;
+    height: 20px;
+    font-size: 12px;
+    border-radius: 20px;
+    color: #0A1117;
+    background-color: #FFB4D3;
+    align-items: center;
+}
+
+.designed{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.organisation{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    color: #37424D;
+    font-size: 40px;
+}
+.launch {
+        display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #FFB4D3;
+    font-size: 40px;
+}
+
+.works{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    color: white;
+    font-size: 40px;
+}
+.test2{
+    display: flex;
+    justify-content: center;
+}
+.test3{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.test4{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+
+.test {
+    display: flex;
+    width: 120px;
+    height: 120px;
+    margin: 5px;
+    border-radius: 25px;
+    color: #FF9E9E;
+    border: 2px solid #2A3744;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+}
+.help-us{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 45px;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.foto-help{
+    display: flex;
+    justify-content: center;
+}
+.foto-help-change{
+    border-radius: 30px;
+    margin: 10px;
+}
