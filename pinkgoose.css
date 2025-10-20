@@ -273,3 +273,21 @@ span {
     border-radius: 30px;
     margin: 10px;
 }
+.ster {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+.ster-grote {
+    width: 30px;
+    height: 30px;
+   margin: 10px;
+   margin-bottom: -6px;
+}
+
+.ster-dichtbij{
+    margin: 0px;
+}
