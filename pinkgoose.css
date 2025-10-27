@@ -23,7 +23,8 @@ span {
 
 .stuk2 {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     width: 100%;
     height: 100%;
 }
@@ -303,7 +304,7 @@ span {
     display: flex;
     height: 190px;
     width: 500px;
-    background-color: #2A3744;
+    background-color: #121E28;
     border-radius: 20px;
     font-size: 30px;
     color: white;
@@ -442,3 +443,104 @@ span {
     height: 25px;
     width: 25px;
 }
+.podcast-text2{
+    font-size: 10px;
+    color: #E2E2E2;
+}
+
+.sterren1-plek{
+    display: flex;
+    justify-content: center;
+}
+.sterren1{
+    margin: 60px;
+    height: 50px;
+    width: 42px;
+}
+
+.your-idea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.telegram-block{
+height: 60px;
+width: 170px;
+background-color: #FFC803;
+display: flex;
+color: #4D3705;
+border-radius: 10px;
+margin: 10px;
+
+}
+
+
+.blockje-flex{
+    display: flex;
+    flex-direction: column;
+} 
+
+.your-idea-text1{
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+}
+.your-idea-text2{
+    font-size: 30px;
+    color: #5A6C7E;
+    margin: 10px;
+
+}
+.telegram-foto{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.telegram-text2{
+    font-size: 13px;
+}
+.email-blockje{
+    height: 60px;
+width: 170px;
+color: #4D3705;
+display: flex;
+background-color: rgb(162, 88, 162);
+border-radius: 10px; 
+margin: 10px;
+
+
+}
+
+.email-telegram-flex{
+    display: flex;
+
+}
+.end-box{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: #121E28;
+    justify-content: space-around;
+    align-items: center;
+}
+.tekst1-end{
+    font-size: 20px;
+color: white;
+margin: 20px;
+}
+.tekst2-end{
+       font-size: 20px;
+color: yellow;
+margin: 20px;
+}
+
+.foto-end-flex{
+    display: flex;
+}
+.end-flex{
+    display: flex;
+    align-items: center;
+}
+
