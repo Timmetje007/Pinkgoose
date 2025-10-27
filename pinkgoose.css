@@ -291,3 +291,59 @@ span {
 .ster-dichtbij{
     margin: 0px;
 }
+
+.weekly-display{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.weekly{
+    display: flex;
+    height: 190px;
+    width: 500px;
+    background-color: #2A3744;
+    border-radius: 20px;
+    font-size: 30px;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid #3D4C5B;
+
+}
+
+.new-dao{
+    display: flex;
+    justify-content: center;
+    color: #3D4C5B;
+}
+
+.weekly-email{
+    color: #2A3744;
+    border: 2px solid #2A3744;
+    background-color: #121E28;
+}
+
+.subscribe{
+    background-color: #CEAAFF;
+    border-radius: 5px;
+
+}
+
+.press{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+
+}
+
+.press-grote{
+    font-size: 25px;
+}
+
+.press-see{
+    color: #8395A7;
+
+}
