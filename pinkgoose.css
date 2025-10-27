@@ -577,4 +577,21 @@ top: 140px;
 height: 50px;
 width: 50px;
 }
+.stars-2{
+    display: flex;
+position: relative;
+left: 280px;
+top: 25px;
+height: 50px;
+width: 50px;
+}
+.stars-3{
+       display: flex;
+position: relative;
+left: 100px;
+top: 0px;
+height: 50px;
+width: 50px; 
+}
+
 
