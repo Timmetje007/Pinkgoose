@@ -626,11 +626,63 @@ width: 50px;
     width: 100%;
     height: 100%;
 }
-.Sent-goose{
+.sent-goose{
     width: 400px;
-    height: 800px;
+    height: 500px;
     display: flex;
-    
+    flex-direction: column;
+    align-items: center;
+    background-color: #121E28;
+    border-radius: 30px;
+}
+.sent-goose-email{
+background-color: #121E28;
+color: #2A3744;
+border-radius: 10px;
+border: 2px solid #3D4C5B;
+height: 30px;
+width: 300px;
+margin: 10px;
+}
+.sent-goose-name{
+background-color: #121E28;
+color: #2A3744;
+border-radius: 10px;
+border: 2px solid #3D4C5B;
+height: 30px;
+width: 300px;
+margin: 10px;
+}
+.sent-goose-message{
+background-color: #121E28;
+color: #2A3744;
+border-radius: 10px;
+border: 2px solid #3D4C5B;
+height: 200px;
+width: 300px;
+margin: 10px;
+}
+.sent-goose-kleur{
+background-color: #121E28;
+color: #2A3744;
+border-radius: 10px;
+border: 2px solid #3D4C5B;
+height: 30px;
+width: 300px;
+margin: 10px;
+}
+.sent-goose-knop{
+    background-color: #CEAAFF;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    margin-left: 230px;
+
+}
+.sent-goose-text{
+    color: white;
+    font-size: 30px;
+    margin: 10px;
 }
 
 
